@@ -1,3 +1,4 @@
+<img width="1740" height="882" alt="image_2026-09-22_072025148" src="https://github.com/user-attachments/assets/de68b004-4638-4129-a6be-fe10b51d17d2" />
 # multi-tenant-webhook-gateway
 Multi-tenant n8n webhook gateway routing 3 clients to separate validation rules and Google Sheets destinations, with dynamic 401/400/200 responses.
 # Multi-Tenant Webhook Gateway
